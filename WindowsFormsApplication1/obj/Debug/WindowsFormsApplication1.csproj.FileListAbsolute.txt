@@ -1,0 +1,48 @@
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab7Var11.Form1.resources
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\Lab7Var11.Form1.resources
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\Lab7Var11.Form1.resources
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Институт\лабораторный практикум\Работа 7. Вариант 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\obj\Debug\Lab7Var11.Form1.resources
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tolik-2003\Downloads\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\rabota7new-main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\rabota7new-main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\rabota7new-main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\rabota7new-main\WindowsFormsApplication1\obj\Debug\Lab7Var11.Form1.resources
+F:\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\rabota7new-main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\rabota7new-main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
